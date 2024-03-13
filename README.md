@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yedekmelik80&show_icons=true&locale=en" alt="yedekmelik80" /></p>
 
-![snake gif](https://github.com/yazicimmelik/blob/output/github-contribution-grid-snake.gif)
+
