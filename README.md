@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yedekmelik80&label=Profile%20views&color=0e75b6&style=flat" alt="yedekmelik80" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yedekmelik80" alt="yedekmelik80" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yedekmelik80" alt="yedekmelik80" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yyazicimelik" target="blank"><img src="https://img.shields.io/twitter/follow/yyazicimelik?logo=twitter&style=for-the-badge" alt="yyazicimelik" /></a> </p>
 
